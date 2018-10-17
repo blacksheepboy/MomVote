@@ -1,5 +1,5 @@
 # MomVote
-How the 2018 general election would go if everyone voted like my mom
+How the 2018 general election would go if everyone voted like my mom.
 
 ## Data Sources
 
